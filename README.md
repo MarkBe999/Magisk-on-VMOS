@@ -23,3 +23,4 @@ NEW!! Magisk Manager v.8.0.0 can detect installed Magisk.
 
 I have made a script to install Magisk as VMOS Tool Terminal modification on VMOS. NOTE that Magisk on VMOS cannot work properly and it is for TEST only!!!
 
+[Read "How to install a module (modification)"](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal#vmos-tool-module-v18)
