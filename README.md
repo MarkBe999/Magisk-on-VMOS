@@ -26,15 +26,15 @@ I have made a script to install Magisk as VMOS Tool Terminal modification on VMO
 
 ### How to install Magisk for VMOS Pro
 
-File: [magisk-vmos.zip](https://github.com/HuskyDG/Magisk-on-VMOS/releases)
+File: [magisk.zip](https://github.com/HuskyDG/Magisk-on-VMOS/releases)
 
 1. Install VMOS Pro Terminal Tool v1.8+ if it's not installed! Or you can download my Geek ROM with Terminal Tool installed.
 
-2. Download `magisk-vmos.zip` and import file to VMOS Pro
+2. Download `magisk.zip` and import file to VMOS Pro
 
-3. Extract `magisk-vmos.zip` to `magisk-vmos` folder
+3. Extract `magisk.zip` to `magisk` folder
 
-4. Copy `magisk-vmos` folder to `/sdcard/toolflash/`
+4. Copy `magisk` folder to `/sdcard/toolflash/`
 
 5. Open Terminal app, type `daemonsu` (grant root access) then type `tool` to run VMOS Pro Terminal Tool, then type `6` (Enter) and `yes` (Enter) to install module.
 
