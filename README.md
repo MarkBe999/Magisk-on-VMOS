@@ -38,7 +38,7 @@ Video: https://youtu.be/rFSNxY3xwo0
 
 4. Copy `magisk` folder to `/sdcard/toolflash/`
 
-5. Open Terminal app, type `daemonsu` (grant root access) then type `tool` to run VMOS Pro Terminal Tool, then type `6` (Enter) and `yes` (Enter) to install module.
+5. Open Terminal app, type `su` (grant root access) then type `tool` to run VMOS Pro Terminal Tool, then type `6` (Enter) and `yes` (Enter) to install module.
 
 <img src="https://i.imgur.com/P2hN7X5.png" />
 
