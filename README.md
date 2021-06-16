@@ -26,6 +26,7 @@ I have made a script to install Magisk as VMOS Tool Terminal modification on VMO
 
 ### How to install Magisk for VMOS Pro
 
+File: [magisk-vmos.zip](https://github.com/HuskyDG/Magisk-on-VMOS/releases)
 
 1. Install VMOS Pro Terminal Tool v1.8+ if it's not installed! Or you can download my Geek ROM with Terminal Tool installed.
 
