@@ -4,12 +4,12 @@ Magisk successfully installed on VMOS - but Magisk can't work properly
 <img src="https://i.imgur.com/Ny1ekVY.png" />
 
 Hi guy, finally I installed Magisk on VMOS successfully!! Magisk daemon can be running but it can't work properly maybe due to VM limitations.
-Magisk app can't detect installed Magisk. 
+The newer Magisk app can't detect installed Magisk. 
 
 
 <img src="https://i.imgur.com/ivTWRnI.jpg" />
 
-But I can grant MagiskSU (make a Superuser request)...
+But I can grant MagiskSU (make a Superuser request)... Only MagiskSu works
 
 Video: https://youtu.be/eTBd_VtmvqA
 
@@ -22,9 +22,11 @@ NEW!! Magisk Manager v.8.0.0 can detect installed Magisk.
 
 I have made a script to install Magisk as VMOS Tool Terminal modification on VMOS. NOTE that Magisk on VMOS cannot work properly and it is for TEST only!!!
 
-
+Magisk mount folder: `/sbin/magiskimg`
 
 ### How to install Magisk for VMOS Pro
+
+This is unstable build, so it cannot work properly at all!!
 
 File: [magisk.zip](https://github.com/HuskyDG/Magisk-on-VMOS/releases)
 
@@ -43,3 +45,5 @@ Video: https://youtu.be/rFSNxY3xwo0
 <img src="https://i.imgur.com/P2hN7X5.png" />
 
 6. Reboot the virtual machine.
+
+If you want to remove Magisk or switch back to Koush Superuser, just uninstall and reinstall root!!!
