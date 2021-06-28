@@ -1,6 +1,11 @@
 # Magisk on VMOS
 Magisk successfully installed on VMOS - but Magisk can't work properly
 
+***Only MagiskSU. This is a experimental feature. If you want modules then don't expect it to work. Modules like MigiskHideProps are not working. So don't expect much.​***
+
+***As of now there is no working way for passing SafetyNet for playing games and apps that use it.***
+
+
 <img src="https://i.imgur.com/Ny1ekVY.png" />
 
 Hi guy, finally I installed Magisk on VMOS successfully!! Magisk daemon can be running but it can't work properly maybe due to VM limitations.
@@ -24,6 +29,8 @@ Magisk mount folder: `/sbin/magiskimg`
 
 ### How to install Magisk for VMOS Pro
 
+***The installation without boot.img patching. Magisk is installed into VM directly***
+
 This is unstable build, so it cannot work properly at all!!
 
 Magisk may not work on your ROM, depend on your fortunateness.
@@ -46,4 +53,4 @@ Video: https://youtu.be/rFSNxY3xwo0
 
 6. Reboot the virtual machine.
 
-If you want to remove Magisk or switch back to Koush Superuser, just uninstall and reinstall root!!!
+If you want to remove Magisk or switch back to Koush Superuser, just flash mod again!!!
