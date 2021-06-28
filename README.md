@@ -26,6 +26,8 @@ Magisk mount folder: `/sbin/magiskimg`
 
 This is unstable build, so it cannot work properly at all!!
 
+Magisk may not work on your ROM, depend on your fortunateness.
+
 File: [magisk.zip](https://github.com/HuskyDG/Magisk-on-VMOS/releases)
 
 Video: https://youtu.be/rFSNxY3xwo0
