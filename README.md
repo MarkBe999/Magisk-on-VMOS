@@ -41,7 +41,7 @@ Video: https://youtu.be/rFSNxY3xwo0
 4. Copy `magisk` folder to `/sdcard/toolflash/`
 
 5. Open Terminal app, <del>type `su` (grant root access)</del> then type `tool` to run VMOS Pro Terminal Tool, then type `6` (Enter) and `yes` (Enter) to install module.
-
+   (Script was updated, no need grant root access)
 <img src="https://i.imgur.com/P2hN7X5.png" />
 
 6. Reboot the virtual machine.
