@@ -39,16 +39,8 @@ File: [magisk.zip](https://github.com/HuskyDG/Magisk-on-VMOS/releases)
 
 Video: https://youtu.be/rFSNxY3xwo0
 
-1. Install VMOS Pro Terminal Tool v1.8+ if it's not installed! Or you can download my Geek ROM with Terminal Tool installed.
+Read [How to install modification zip](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal#how-to-install-a-module) 
 
-2. Download `magisk.zip` and import file to VMOS Pro
-
-3. Extract `magisk.zip` to `magisk` folder
-
-4. Copy `magisk` folder to `/sdcard/toolflash/`
-
-5. Open Terminal app, <del>type `su` (grant root access)</del> then type `tool` to run VMOS Pro Terminal Tool, then type `6` (Enter) and `yes` (Enter) to install module.
-   (Script was updated, no need grant root access)
 <img src="https://i.imgur.com/P2hN7X5.png" />
 
 6. Reboot the virtual machine.
