@@ -1,10 +1,11 @@
 # Magisk on VMOS
 Magisk successfully installed on VMOS - but Magisk can't work properly
 
-***Only MagiskSU. Unfortunately, Magisk Hide and Magisk module cannot work. This is a experimental feature. If you want modules then don't expect it to work. Modules like MigiskHideProps are not working. So don't expect much.​***
+***Only MagiskSU. Unfortunately, MagiskHide cannot hide root and Magisk module cannot work. This is a experimental feature. If you want modules then don't expect it to work. Modules like MigiskHideProps are not working. So don't expect much.​***
 
 ***As of now there is no working way for passing SafetyNet for playing games and apps that use it.***
 
+**No benefit of replacing old root with Magisk**
 
 <img src="https://i.imgur.com/Ny1ekVY.png" />
 
