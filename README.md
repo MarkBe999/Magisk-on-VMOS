@@ -31,6 +31,8 @@ Magisk mount folder: `/sbin/magiskimg`
 
 ***The installation without boot.img patching. Magisk is installed into VM directly***
 
+VMOS doesn't have `boot.img`, it actually uses the same `/dev` and `/proc` of physical machine (your device).
+
 This is unstable build, so it cannot work properly at all!!
 
 Magisk may not work on your ROM, depend on your fortunateness.
