@@ -1,7 +1,7 @@
 # Magisk on VMOS
 Magisk successfully installed on VMOS - but Magisk can't work properly
 
-***Only MagiskSU. This is a experimental feature. If you want modules then don't expect it to work. Modules like MigiskHideProps are not working. So don't expect much.​***
+***Only MagiskSU. Unfortunately, Magisk Hide and Magisk module cannot work. This is a experimental feature. If you want modules then don't expect it to work. Modules like MigiskHideProps are not working. So don't expect much.​***
 
 ***As of now there is no working way for passing SafetyNet for playing games and apps that use it.***
 
@@ -25,7 +25,7 @@ NEW!! Magisk Manager v.8.0.0 can detect installed Magisk.
 
 I have made a script to install Magisk as VMOS Tool Terminal modification on VMOS. NOTE that Magisk on VMOS cannot work properly and it is for TEST only!!!
 
-Magisk mount folder: `/sbin/magiskimg`
+Magisk fake boot: `/.boot/magisk`
 
 ### How to install Magisk for VMOS Pro
 
@@ -44,7 +44,5 @@ Video: https://youtu.be/rFSNxY3xwo0
 Read [How to install modification zip](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal#how-to-install-a-module) 
 
 <img src="https://i.imgur.com/P2hN7X5.png" />
-
-6. Reboot the virtual machine.
 
 If you want to remove Magisk or switch back to Koush Superuser, just flash mod again!!!
