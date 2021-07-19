@@ -40,8 +40,6 @@ Magisk may not work on your ROM, depend on your fortunateness.
 
 File: [magisk.zip](https://github.com/HuskyDG/Magisk-on-VMOS/releases)
 
-Video: https://youtu.be/rFSNxY3xwo0
-
 Read [How to install modification zip](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal#how-to-install-a-module) 
 
 <img src="https://i.imgur.com/P2hN7X5.png" />
