@@ -1,7 +1,7 @@
 # Magisk on VMOS
 Magisk successfully installed on VMOS - but Magisk can't work properly
 
-***Only MagiskSU. Unfortunately, VMOS doesn't have SeLinux (its SeLinux always be permissive) so MagiskHide cannot hide root and Magisk module cannot work. This is a experimental feature. If you want modules then don't expect it to work. Modules like MigiskHideProps are not working. So don't expect much.​***
+***Only MagiskSU. MagiskHide cannot hide root and Magisk module cannot work. This is a experimental feature. If you want modules then don't expect it to work. Modules like MigiskHideProps are not working. So don't expect much.​***
 
 ***As of now there is no working way for passing SafetyNet for playing games and apps that use it.***
 
@@ -14,15 +14,15 @@ The newer Magisk (22.0+) app can't detect installed Magisk.
 
 ## Why doesn't Magisk work properly in VMOS?
 
-Because SeLinux always be permissive or disabled, any third-party apps can get root access without prompted. **IT IS VERY DANGEROUS!!!!**
+VMOS is a Android run on proot
+
+VMOS doesn't have Selinux (Maybe because of this)
 
 You cannot change SeLinux in VMOS to **Enforcing** by `setenforce 1`
 
-VMOS doesn't have `boot.img`, it actually uses the same `/dev` and `/proc` of physical machine (your device).
 
-This is unstable build, so it cannot work properly at all!!
 
-Magisk may not work on your ROM, depend on your fortunateness.
+
 
 
 <img src="https://i.imgur.com/ivTWRnI.jpg" />
