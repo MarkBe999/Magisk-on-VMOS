@@ -14,16 +14,7 @@ The newer Magisk (22.0+) app can't detect installed Magisk.
 
 ## Why doesn't Magisk work properly in VMOS?
 
-VMOS is a Android run on proot
-
-VMOS doesn't have Selinux (Maybe because of this)
-
-You cannot change SeLinux in VMOS to **Enforcing** by `setenforce 1`
-
-
-
-
-
+VMOS is system-on-proot, actually not a emulator, virtual machine
 
 <img src="https://i.imgur.com/ivTWRnI.jpg" />
 
